@@ -1,0 +1,4 @@
+#Sun Dec 01 20:15:47 BRST 2019
+base.0=/home/batman/dev/flutter/workspace/conversor_moedas/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
